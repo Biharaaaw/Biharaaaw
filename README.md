@@ -2,7 +2,7 @@
 -  I’m interested in HTML/JAVA/PYTHON/CSS
 -  I’m currently JavaScript learning
 -  I want to create a fun game 
--  How to reach me: instagram @baharkrrmn/baharkereman@gmail.com
+-  How to reach me: instagram @baharkrrmn/baharkereman22@gmail.com
 
 <html>
   <head>
