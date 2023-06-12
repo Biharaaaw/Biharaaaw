@@ -12,12 +12,23 @@
   <body>
     <p> <3 </p>
       
-      
+ -¦¦(Biharaaaw@root)-[~/]
+L¦$ Biharaaaw.py
 
-    <h5> Herkes mutludur umarım </h5> <h3> Discord: Biharaaaw#7806 </h3>
+class Waesq 22 :
+
+def  __social__(self):
+ self.gtb = "https://github.com/Biharaaaw"
+ self.dsc = "Biharaaaw..." 
+ self.tlg = "https://t.me/Biharaaaw"
+  
+ -¦¦(Biharaaaw@root)-[~/]
+ L¦$
+      
+      
     <hr/>
     <p> Saygı kazanılması gereken bir etkendir.</p>
-     <br/> Bahar KEREMAN 
+     <br/> 
   </body>  
 </html>
 
