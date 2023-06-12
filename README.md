@@ -16,12 +16,8 @@
 
     <h5> Herkes mutludur umarım </h5> <h3> Discord: Biharaaaw#7806 </h3>
     <hr/>
-    <p> Saygı kazanılması gereken bir etkendir.
+    <p> Saygı kazanılması gereken bir etkendir.</p>
      <br/> Bahar KEREMAN 
-  </body>
-   
-
-    
-  
+  </body>  
 </html>
 
